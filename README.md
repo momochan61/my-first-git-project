@@ -3,7 +3,7 @@ My first GitHub repository for learning programming and building my IT portfolio
 About Me　（自己紹介）
 I am learning programming and developing my IT skills.
 プログラミングを勉強しながら、ITスキルを身に着けています。
-Skills I am learning:（勉強チュノスキル）
+Skills I am learning:（勉強中のスキル）
 * Java
 * Python
 * Git and GitHub
