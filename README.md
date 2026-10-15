@@ -5,6 +5,7 @@ I am learning programming and developing my IT skills.
 プログラミングを勉強しながら、ITスキルを身に着けています。
 Skills I am learning:（勉強チュノスキル）
 * Java
+* Python
 * Git and GitHub
 * Problem solving
 Goal（目標）
